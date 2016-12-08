@@ -1,2 +1,0 @@
-# Udacity
-Learning repository
